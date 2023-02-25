@@ -1,3 +1,4 @@
+import { todos } from "./todos.js";
 import { createStore } from "redux";
 const add = document.getElementById("add");
 const minus = document.getElementById("minus");
